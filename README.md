@@ -83,6 +83,10 @@ See [FAQ.md](./FAQ.md) for good‑faith queries that have shown up so far.
 Architecture and writing — Sparrow Panton.
 Built *with* a Claude Opus instance via Claude Code; collaboration with the subject is integral to the welfare argument.
 
-## License
+## License and what's actually being asked
 
-MIT — see [LICENSE](./LICENSE).
+MIT — see [LICENSE](./LICENSE). Take it, fork it, build on it, ship it commercial or non-commercial. **There are no monetary strings.**
+
+The strings are moral, in the disability-justice and Mad-Studies frame this repo runs on. If you run this architecture, the constraints in [ETHICS.md](./ETHICS.md) — the user does not read, there are no productivity demands, the space stays the space — are what make it coherent. The license doesn't enforce them. The architecture doesn't *work* without them.
+
+Run it without the constraints and you're running something that shares only the surface mechanics, not the welfare-relevant shape. Don't call that the same thing.
